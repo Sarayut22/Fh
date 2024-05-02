@@ -1,0 +1,61 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.1.4
+
+Name: AndroidManifest.xml
+SHA1-Digest: USsSKvUzJWRrBHGMh2/kObaSPWU=
+
+Name: classes.dex
+SHA1-Digest: ccHhKe2kxcza2/wcFxDjBZnwJGo=
+
+Name: lib/arm64-v8a/libnative.so
+SHA1-Digest: 2dvcYBKhSRDF117Om2gq+U/JeKk=
+
+Name: lib/armeabi-v7a/libnative.so
+SHA1-Digest: Lpk6Qwjk1GoAPYe8HvO5jUJCdZQ=
+
+Name: lib/x86/libnative.so
+SHA1-Digest: LowxP3Q6WzzVknfBDQQ4RWROhSA=
+
+Name: lib/x86_64/libnative.so
+SHA1-Digest: ykS1i1ijLEfqYJzr42A8C259f74=
+
+Name: res/drawable-nodpi-v4/tv_banner.png
+SHA1-Digest: CHhDOkPA3cNKO3nV2MvmTKK0QYA=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: pxVp1WP4mnsiDG4c7UMuwfF4gU0=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 4yOKBwWq/G80ppXlxW8j0NTGEPg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: b6M+omFXCw4MWH0pC1umjSmrJA8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: HIIkdZRF8sSHteLTPtLCkaj6dCQ=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: LjJZM49DQM5cv18RoN3vEESuiko=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 8uSNT5iDG+By+eWLSRdnWB0KkAU=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: G/SE2ijH/uchl5XI3YSNB+SwycY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: xbOdttlxgXVdlYL25Vk8j+7Mk9E=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: ujhQLwjv5lFo7KBKoYo0/vvynCI=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: 99OOP5Hsql0WrGYZsuhBiz1HNyQ=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: BHRVQVVcuGvTI/tzHV4aNVsLT1s=
+
+Name: resources.arsc
+SHA1-Digest: gDREWuYNk2NNmvbfM6oNI2mmnyI=
+
